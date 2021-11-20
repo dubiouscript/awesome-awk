@@ -25,6 +25,7 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [Advance your awk skills with two easy tutorials](https://opensource.com/article/19/10/advanced-awk)
  * [awk is the coolest tool you don't know](https://portal.mozz.us/gemini/drewdevault.com/2021/05/03/awk-is-the-coolest-tool-you-dont-know.gmi)
  * [GoAWK, an AWK interpreter written in Go](https://benhoyt.com/writings/goawk/)
+ * [No database! Thanks to AWK](http://freesoftwaremagazine.com/articles/look_mum_no_database_thanks_to_awk/)
 
 
 ## Documentation
@@ -32,7 +33,7 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [Gawk: Effective AWK Programming](https://www.gnu.org/software/gawk/manual/)
  * [Gawkinet: TCP/IP Internetworking with Gawk](https://www.gnu.org/software/gawk/manual/gawkinet/gawkinet.html)
  * man pages: [gawk](https://linux.die.net/man/1/gawk), [mawk](http://invisible-island.net/mawk/manpage/mawk.html), [nawk](https://linux.die.net/man/1/nawk)
-
+ * [Where X=awk Learn X in Y minutes](https://learnxinyminutes.com/docs/awk/)
 
 ## Books
  * [Effective awk Programming: Universal Text Processing and Pattern Matching](https://www.amazon.com/Effective-awk-Programming-Universal-Processing/dp/1491904615/)
@@ -47,7 +48,10 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
 # AWK libraries
  * [e36freak/awk-libs](https://github.com/e36freak/awk-libs)
  * [dubiousjim/awkenough](https://github.com/dubiousjim/awkenough)
- 
+ * [ttv1/aok - awk tricks](https://github.com/ttv1/aok awk tricks)
+ * [wernsey/d.awk generate documentation from Markdown-formatted comments](https://github.com/wernsey/d.awk)
+
+
 # Nowadays [AWK Implementations](https://en.wikipedia.org/wiki/AWK#Versions_and_implementations)
  * recommended
    * [gawk project](https://savannah.gnu.org/projects/gawk/) ([source-code](http://git.savannah.gnu.org/cgit/gawk.git))
@@ -57,4 +61,7 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
    * [BusyBox project](https://www.busybox.net/) contains also independent awk implementation ([source-code](https://git.busybox.net/busybox))
    * [jawk](http://jawk.sourceforge.net/)
    * [pawk](https://github.com/jasontrigg0/pawk)
-
+ * out side the box 
+   * [emscripten.compilation of GNU awk](https://github.com/petli-full/awkjs)
+   * [biowasm/biowasm -tools compiled to WebAssembly](https://github.com/biowasm/biowasm/tree/main/tools/gawk)
+   * [(slightly modified) Busybox AWK compiled using emscripten](https://github.com/agordon/webawk)
