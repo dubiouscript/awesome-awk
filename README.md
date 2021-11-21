@@ -26,7 +26,7 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [awk is the coolest tool you don't know](https://portal.mozz.us/gemini/drewdevault.com/2021/05/03/awk-is-the-coolest-tool-you-dont-know.gmi)
  * [GoAWK, an AWK interpreter written in Go](https://benhoyt.com/writings/goawk/)
  * [No database! Thanks to AWK](http://freesoftwaremagazine.com/articles/look_mum_no_database_thanks_to_awk/)
-
+ * [How I Write AWK Code - ttv1](https://github.com/ttv1/aok/blob/master/docs/codingtips.md#how-i-write-awk-code)
 
 ## Documentation
 
@@ -45,12 +45,23 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [The awk language: Linux Intermediate](https://books.google.com/books?id=pUO1CwAAQBAJ&dq=bibliogroup:%22Linux+Intermediate%22)
 
   
-# AWK libraries
+# AWK libraries  /  utils
  * [e36freak/awk-libs](https://github.com/e36freak/awk-libs)
  * [dubiousjim/awkenough](https://github.com/dubiousjim/awkenough)
- * [ttv1/aok - awk tricks](https://github.com/ttv1/aok awk tricks)
- * [wernsey/d.awk generate documentation from Markdown-formatted comments](https://github.com/wernsey/d.awk)
-
+ * [henfiber/stdlib_awk](https://github.com/henfiber/stdlib_awk) Library functions for awk 
+ * [ttv1/aok](https://github.com/ttv1/aok)  awk tricks
+ * [wernsey/d.awk](https://github.com/wernsey/d.awk) generate documentation from Markdown-formatted comments 
+ * [huijunchen9260/fm.awk](https://github.com/huijunchen9260/fm.awk)  File manager written in awk 
+ * [djanderson/aho](https://github.com/djanderson/aho) A git implementation in awk 
+ * [xonixx/makesure](https://github.com/xonixx/makesure) Simple task/command runner inspired by make
+ * [darius/ake](https://github.com/darius/ake) A 'make' program in one little Awk file 
+ * [deuill/grawkit](https://github.com/deuill/grawkit) The Awksome Git Graph Generator 
+ * [doekman/awkcss](https://github.com/doekman/awkcss)  style to your terminal session with awk
+ * [jiro4989/svgo](https://github.com/jiro4989/svgo)  create SVG objects
+ * [wingunder/gnumake2dot](https://github.com/wingunder/gnumake2dot) Visualize Makefiles with graphviz (dot).
+ * [ericpruitt/wcwidth.awk](https://github.com/ericpruitt/wcwidth.awk) An implementation of wcwidth / wcswidth in pure AWK 
+ * [JamesMcGuigan/awkmath](https://github.com/JamesMcGuigan/awkmath) functional programming toolkit of awk scripts
+ * [cheusov/runawk](https://github.com/cheusov/runawk) Powerful wrapper for AWK interpreter
 
 # Nowadays [AWK Implementations](https://en.wikipedia.org/wiki/AWK#Versions_and_implementations)
  * recommended
@@ -61,7 +72,11 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
    * [BusyBox project](https://www.busybox.net/) contains also independent awk implementation ([source-code](https://git.busybox.net/busybox))
    * [jawk](http://jawk.sourceforge.net/)
    * [pawk](https://github.com/jasontrigg0/pawk)
+   * [adtools/awk](https://github.com/adtools/awk) AmigaOS port of the official AWK/NAWK tools 
+   * [sharplispers/clawk](https://github.com/sharplispers/clawk) AWK implementation embedded into Common Lisp 
+   * [hyung-hwan/hawk](https://github.com/hyung-hwan/hawk) An AWK interpreter 
  * out side the box 
    * [emscripten.compilation of GNU awk](https://github.com/petli-full/awkjs)
    * [biowasm/biowasm -tools compiled to WebAssembly](https://github.com/biowasm/biowasm/tree/main/tools/gawk)
    * [(slightly modified) Busybox AWK compiled using emscripten](https://github.com/agordon/webawk)
+   * [neacsum/awklib](https://github.com/neacsum/awklib) AWK interpreter that can be embedded in C/C++ programs
