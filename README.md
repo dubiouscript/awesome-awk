@@ -3,6 +3,8 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
 
 [Brief AWK history](https://en.wikipedia.org/wiki/AWK#History), [state of the AWK technologies](https://lwn.net/Articles/820829/). [Detailed GNU AWK history by Aharon (Arnold) Robbins](http://www.skeeve.com/gnu-awk-and-me-2014.pdf).
 
+
+
 # Full documentation, guides and books
 
 ## Quick How-tos
@@ -34,7 +36,8 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [Gawkinet: TCP/IP Internetworking with Gawk](https://www.gnu.org/software/gawk/manual/gawkinet/gawkinet.html)
  * man pages: [gawk](https://linux.die.net/man/1/gawk), [mawk](http://invisible-island.net/mawk/manpage/mawk.html), [nawk](https://linux.die.net/man/1/nawk)
  * [Where X=awk Learn X in Y minutes](https://learnxinyminutes.com/docs/awk/)
-
+ * [awk @ rosettacode: programming chrestomathy wiki](http://rosettacode.org/wiki/Category:AWK)
+ * 
 ## Books
  * [Effective awk Programming: Universal Text Processing and Pattern Matching](https://www.amazon.com/Effective-awk-Programming-Universal-Processing/dp/1491904615/)
  * [sed & awk](https://www.amazon.com/Sed-Awk-Dale-Dougherty/dp/1565922255/)
