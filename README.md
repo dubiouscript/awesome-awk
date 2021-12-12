@@ -38,7 +38,7 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * man pages: [gawk](https://linux.die.net/man/1/gawk), [mawk](http://invisible-island.net/mawk/manpage/mawk.html), [nawk](https://linux.die.net/man/1/nawk)
  * [Where X=awk Learn X in Y minutes](https://learnxinyminutes.com/docs/awk/)
  * [awk @ rosettacode: programming chrestomathy wiki](http://rosettacode.org/wiki/Category:AWK)
- * [Awk information and code found on the Internet]|(https://balbach.net/awk/doku.php)
+ * [Awk information and code found on the Internet](https://balbach.net/awk/doku.php)
 
 
 ## Books
