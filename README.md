@@ -27,6 +27,7 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [Advance your awk skills with two easy tutorials](https://opensource.com/article/19/10/advanced-awk)
  * [awk is the coolest tool you don't know](https://portal.mozz.us/gemini/drewdevault.com/2021/05/03/awk-is-the-coolest-tool-you-dont-know.gmi)
  * [GoAWK, an AWK interpreter written in Go](https://benhoyt.com/writings/goawk/)
+ * [AWKGo, an AWK-to-Go compiler](https://benhoyt.com/writings/awkgo/)
  * [No database! Thanks to AWK](http://freesoftwaremagazine.com/articles/look_mum_no_database_thanks_to_awk/)
  * [How I Write AWK Code - ttv1](https://github.com/ttv1/aok/blob/master/docs/codingtips.md#how-i-write-awk-code)
 
@@ -37,7 +38,9 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * man pages: [gawk](https://linux.die.net/man/1/gawk), [mawk](http://invisible-island.net/mawk/manpage/mawk.html), [nawk](https://linux.die.net/man/1/nawk)
  * [Where X=awk Learn X in Y minutes](https://learnxinyminutes.com/docs/awk/)
  * [awk @ rosettacode: programming chrestomathy wiki](http://rosettacode.org/wiki/Category:AWK)
- * 
+ * [Awk information and code found on the Internet]|(https://balbach.net/awk/doku.php)
+
+
 ## Books
  * [Effective awk Programming: Universal Text Processing and Pattern Matching](https://www.amazon.com/Effective-awk-Programming-Universal-Processing/dp/1491904615/)
  * [sed & awk](https://www.amazon.com/Sed-Awk-Dale-Dougherty/dp/1565922255/)
@@ -65,6 +68,11 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [ericpruitt/wcwidth.awk](https://github.com/ericpruitt/wcwidth.awk) An implementation of wcwidth / wcswidth in pure AWK 
  * [JamesMcGuigan/awkmath](https://github.com/JamesMcGuigan/awkmath) functional programming toolkit of awk scripts
  * [cheusov/runawk](https://github.com/cheusov/runawk) Powerful wrapper for AWK interpreter
+ * [xfix/awk-plus-plus](https://github.com/xfix/awk-plus-plus) various helper functions for awk
+ * [The Awk Book's Code](https://code.google.com/archive/p/lawker/)
+ * [c0psrul3/lawker](https://github.com/c0psrul3/lawker) The Awk Book's Code (exported from Google Code)
+ * [takubo/awk_lib](https://github.com/takubo/awk_lib) Library for AWK 
+ 
 
 # Nowadays [AWK Implementations](https://en.wikipedia.org/wiki/AWK#Versions_and_implementations)
  * recommended
