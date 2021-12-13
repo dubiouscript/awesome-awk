@@ -7,7 +7,7 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
 
 # Full documentation, guides and books
 
-## Quick How-tos
+## Quick How-tos 
  * [30 Examples for Awk Command in Text Processing](https://likegeeks.com/awk-command/)
  * [AWK crashcourse](https://github.com/freznicek/awk-crashcourse/blob/master/README.md)
  * [30 seconds of AWK code](https://github.com/freznicek/30-seconds-of-awk-code/blob/master/README.md)
@@ -26,10 +26,17 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [A guide to intermediate awk scripting](https://opensource.com/article/19/11/intermediate-awk-scripting)
  * [Advance your awk skills with two easy tutorials](https://opensource.com/article/19/10/advanced-awk)
  * [awk is the coolest tool you don't know](https://portal.mozz.us/gemini/drewdevault.com/2021/05/03/awk-is-the-coolest-tool-you-dont-know.gmi)
+
+## links resources ect
  * [GoAWK, an AWK interpreter written in Go](https://benhoyt.com/writings/goawk/)
  * [AWKGo, an AWK-to-Go compiler](https://benhoyt.com/writings/awkgo/)
  * [No database! Thanks to AWK](http://freesoftwaremagazine.com/articles/look_mum_no_database_thanks_to_awk/)
  * [How I Write AWK Code - ttv1](https://github.com/ttv1/aok/blob/master/docs/codingtips.md#how-i-write-awk-code)
+
+ * [Functional Programing in AWK](http://www.btellez.com/posts/fp-awk.html) Speculative View on How FP Could Work in AWK
+ * [Tail call optimisation in (g)awk ~ May 13, 2016](https://blog.0branch.com/posts/2016-05-13-awk-tco.html)
+ * [Find limit of recursion](https://rosettacode.org/wiki/Find_limit_of_recursion#AWK)
+
 
 ## Documentation
 
@@ -39,6 +46,7 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [Where X=awk Learn X in Y minutes](https://learnxinyminutes.com/docs/awk/)
  * [awk @ rosettacode: programming chrestomathy wiki](http://rosettacode.org/wiki/Category:AWK)
  * [Awk information and code found on the Internet](https://balbach.net/awk/doku.php)
+
 
 
 ## Books
@@ -71,8 +79,15 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [xfix/awk-plus-plus](https://github.com/xfix/awk-plus-plus) various helper functions for awk
  * [The Awk Book's Code](https://code.google.com/archive/p/lawker/)
  * [c0psrul3/lawker](https://github.com/c0psrul3/lawker) The Awk Book's Code (exported from Google Code)
- * [takubo/awk_lib](https://github.com/takubo/awk_lib) Library for AWK 
- 
+ * [takubo/awk_lib](https://github.com/takubo/awk_lib) Library for AWK
+ * [Internet Archive Classic Search](https://bitbucket.org/stbalbach/internetarchiveclassicsearch/src/master/)
+ * [e36freak/ogrep](https://github.com/e36freak/ogrep) similar implementation of GNU grep -o 
+ * [kevin-albert/awkserver](https://github.com/kevin-albert/awkserver)
+ * [gsitkarev/dbawk](https://github.com/gsitkarev/dbawk) (gawk) plain text database 
+ * [SPAWK](spawk.info/index.html) SQL Powered AWK
+ * [huijunchen9260/bib.awk](https://github.com/huijunchen9260/bib.awk)  Bibliography manager written in awk 
+ * [phillbush/todo](https://github.com/phillbush/todo) print next tasks
+ * [crossbowerbt/awk-webserver](https://github.com/crossbowerbt/awk-webserver) simple *socat webserver written in GNU awk
 
 # Nowadays [AWK Implementations](https://en.wikipedia.org/wiki/AWK#Versions_and_implementations)
  * recommended
@@ -91,3 +106,23 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
    * [biowasm/biowasm -tools compiled to WebAssembly](https://github.com/biowasm/biowasm/tree/main/tools/gawk)
    * [(slightly modified) Busybox AWK compiled using emscripten](https://github.com/agordon/webawk)
    * [neacsum/awklib](https://github.com/neacsum/awklib) AWK interpreter that can be embedded in C/C++ programs
+
+
+
+# distro: packages(s) / version(s)
+* repology.org search=awk
+  * [repology.org/projects/?search=awk](https://repology.org/projects/?search=awk&maintainer=&category=&inrepo=&notinrepo=&repos=&families=&repos_newest=&families_newest=)
+ ### implementations
+* [nawk pkgs](https://repology.org/project/nawk/versions)
+* [gawk pkgs](https://repology.org/project/gawk/versions) 
+* [mawk pkgs](https://repology.org/project/mawk/versions) 
+* [goawk pkgs](https://repology.org/project/goawk/versions)
+* [bioawk pkgs](https://repology.org/project/bioawk/versions)
+   
+ ### lib(s) / util(s)
+* [runawk pkgs](https://repology.org/project/runawk/versions) 
+* [awka pkgs](https://repology.org/project/awka/versions)
+* [fmawk pkgs](https://repology.org/project/fmawk/versions) 
+
+
+  
