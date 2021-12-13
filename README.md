@@ -44,7 +44,7 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [Automatically generating railroad diagrams from yacc files](https://shape-of-code.com/2012/06/12/automatically-generating-railroad-diagrams-from-yacc-files/)
  * [Grammar Zoo #awk](https://slebok.github.io/zoo/#awk) The objective of the Grammar Zoo is to accumulate grammars in a broad sense of various software languages, extracted and recovered from language documentation, parser specifications and other artefacts and make them available in a range of formats.
  * [Browsable AWK Grammar](https://slebok.github.io/zoo/awk/bruneliere/extracted/index.html)
- * [wiki.alpinelinux awk](https://wiki.alpinelinux.org/wiki/Awk) technical summary and list of "gotchas" ( compares BusyBox's awk , gawk (versions >= 3.1.8) and FreeBSD 9's nawk )
+ * [wiki.alpinelinux awk](https://wiki.alpinelinux.org/wiki/Awk) technical summary and list of "gotchas", compares BusyBox's awk ,gawk (versions >= 3.1.8) & FreeBSD 9's nawk
 
 
 ## Documentation
