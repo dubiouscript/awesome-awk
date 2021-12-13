@@ -28,6 +28,7 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [awk is the coolest tool you don't know](https://portal.mozz.us/gemini/drewdevault.com/2021/05/03/awk-is-the-coolest-tool-you-dont-know.gmi)
 
 ## links resources ect
+ * [wiki Yacc (Yet Another Compiler-Compiler)](https://en.wikipedia.org/wiki/Yacc) Among the languages that were first implemented with Yacc are AWK,..
  * [wiki.c2 AwkLanguage](https://wiki.c2.com/?AwkLanguage) AWK is a LittleLanguage
  * [wiki.c2 LittleLanguage](https://wiki.c2.com/?LittleLanguage) 
  * [wiki.c2 RegularExpression](https://wiki.c2.com/?RegularExpression) RegularExpressions are a fundamental building block of ComputerScience.
