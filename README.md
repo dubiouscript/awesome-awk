@@ -34,6 +34,8 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [wiki.c2 RegularExpression](https://wiki.c2.com/?RegularExpression) RegularExpressions are a fundamental building block of ComputerScience.
  * [wiki.c2 TextFormattingRegularExpressions](https://wiki.c2.com/?TextFormattingRegularExpressions) regular expressions used by Ward's wiki
  * [wiki.c2 AlternativesToRegularExpressions](https://wiki.c2.com/?AlternativesToRegularExpressions)  "semantically equivalent facility with different syntax"
+ * [SO regular expression syntax summary ](https://stackoverflow.com/questions/23216/summary-of-differences-in-regular-expression-syntax-for-various-tools-and-langua)
+ * [regexp syntax summary quick reference ](http://www.greenend.org.uk/rjk/tech/regexp.html)
  * [GoAWK, an AWK interpreter written in Go](https://benhoyt.com/writings/goawk/)
  * [AWKGo, an AWK-to-Go compiler](https://benhoyt.com/writings/awkgo/)
  * [No database! Thanks to AWK](http://freesoftwaremagazine.com/articles/look_mum_no_database_thanks_to_awk/)
