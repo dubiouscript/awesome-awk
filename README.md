@@ -41,6 +41,8 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [Functional Programing in AWK](http://www.btellez.com/posts/fp-awk.html) Speculative View on How FP Could Work in AWK
  * [Tail call optimisation in (g)awk ~ May 13, 2016](https://blog.0branch.com/posts/2016-05-13-awk-tco.html)
  * [Find limit of recursion](https://rosettacode.org/wiki/Find_limit_of_recursion#AWK)
+ * [Automatically generating railroad diagrams from yacc files](https://shape-of-code.com/2012/06/12/automatically-generating-railroad-diagrams-from-yacc-files/)
+ * [Grammar Zoo #awk](https://slebok.github.io/zoo/#awk) The objective of the Grammar Zoo is to accumulate grammars in a broad sense of various software languages, extracted and recovered from language documentation, parser specifications and other artefacts and make them available in a range of formats.
 
 
 ## Documentation
@@ -51,7 +53,6 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [Where X=awk Learn X in Y minutes](https://learnxinyminutes.com/docs/awk/)
  * [awk @ rosettacode: programming chrestomathy wiki](http://rosettacode.org/wiki/Category:AWK)
  * [Awk information and code found on the Internet](https://balbach.net/awk/doku.php)
-
 
 
 ## Books
@@ -93,6 +94,9 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [huijunchen9260/bib.awk](https://github.com/huijunchen9260/bib.awk)  Bibliography manager written in awk 
  * [phillbush/todo](https://github.com/phillbush/todo) print next tasks
  * [crossbowerbt/awk-webserver](https://github.com/crossbowerbt/awk-webserver) simple *socat webserver written in GNU awk
+ * [Yacc to LaTeX](https://web.archive.org/web/20150910190944/http://www.alchar.org/~aedil/Projects/y2l.html) takes (hopefully) any yacc source file, and derives an Extended Backus-Naur Form (EBNF) description from it. This EBNF is written out as LaTeX source. 
+ * [shape-of-code.com railroad.awk.txt](https://www.shape-of-code.com/images/railroad.awk.txt)
+
 
 # Nowadays [AWK Implementations](https://en.wikipedia.org/wiki/AWK#Versions_and_implementations)
  * recommended
