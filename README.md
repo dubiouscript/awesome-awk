@@ -37,12 +37,13 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [AWKGo, an AWK-to-Go compiler](https://benhoyt.com/writings/awkgo/)
  * [No database! Thanks to AWK](http://freesoftwaremagazine.com/articles/look_mum_no_database_thanks_to_awk/)
  * [How I Write AWK Code - ttv1](https://github.com/ttv1/aok/blob/master/docs/codingtips.md#how-i-write-awk-code)
-
  * [Functional Programing in AWK](http://www.btellez.com/posts/fp-awk.html) Speculative View on How FP Could Work in AWK
  * [Tail call optimisation in (g)awk ~ May 13, 2016](https://blog.0branch.com/posts/2016-05-13-awk-tco.html)
+ * [Re: [bug-gawk] gawk 4.2.1 critical issue ~ 25 Mar 2018](https://lists.gnu.org/archive/html/bug-gawk/2018-03/msg00040.html) gawk's tail recursion elimnation optimization is broken. .. so I have simply removed it.
  * [Find limit of recursion](https://rosettacode.org/wiki/Find_limit_of_recursion#AWK)
  * [Automatically generating railroad diagrams from yacc files](https://shape-of-code.com/2012/06/12/automatically-generating-railroad-diagrams-from-yacc-files/)
  * [Grammar Zoo #awk](https://slebok.github.io/zoo/#awk) The objective of the Grammar Zoo is to accumulate grammars in a broad sense of various software languages, extracted and recovered from language documentation, parser specifications and other artefacts and make them available in a range of formats.
+
 
 
 ## Documentation
