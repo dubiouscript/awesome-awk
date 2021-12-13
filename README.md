@@ -28,6 +28,11 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [awk is the coolest tool you don't know](https://portal.mozz.us/gemini/drewdevault.com/2021/05/03/awk-is-the-coolest-tool-you-dont-know.gmi)
 
 ## links resources ect
+ * [wiki.c2 AwkLanguage](https://wiki.c2.com/?AwkLanguage) AWK is a LittleLanguage
+ * [wiki.c2 LittleLanguage](https://wiki.c2.com/?LittleLanguage) 
+ * [wiki.c2 RegularExpression](https://wiki.c2.com/?RegularExpression) RegularExpressions are a fundamental building block of ComputerScience.
+ * [wiki.c2 TextFormattingRegularExpressions](https://wiki.c2.com/?TextFormattingRegularExpressions) regular expressions used by Ward's wiki
+ * [wiki.c2 AlternativesToRegularExpressions](https://wiki.c2.com/?AlternativesToRegularExpressions)  "semantically equivalent facility with different syntax"
  * [GoAWK, an AWK interpreter written in Go](https://benhoyt.com/writings/goawk/)
  * [AWKGo, an AWK-to-Go compiler](https://benhoyt.com/writings/awkgo/)
  * [No database! Thanks to AWK](http://freesoftwaremagazine.com/articles/look_mum_no_database_thanks_to_awk/)
