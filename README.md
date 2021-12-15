@@ -36,6 +36,9 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [wiki.c2 AlternativesToRegularExpressions](https://wiki.c2.com/?AlternativesToRegularExpressions)  "semantically equivalent facility with different syntax"
  * [SO regular expression syntax summary ](https://stackoverflow.com/questions/23216/summary-of-differences-in-regular-expression-syntax-for-various-tools-and-langua)
  * [regexp syntax summary quick reference ](http://www.greenend.org.uk/rjk/tech/regexp.html)
+ * [Theory behind regex implementations](https://cs.stackexchange.com/questions/135340/theory-behind-regex-implementations)
+ * [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/%7Ersc/regexp/regexp1.html)
+ * [Are regular languages and their regular expressions part of computer science?](https://cs.stackexchange.com/questions/116985/are-regular-languages-and-their-regular-expressions-part-of-computer-science)
  * [GoAWK, an AWK interpreter written in Go](https://benhoyt.com/writings/goawk/)
  * [AWKGo, an AWK-to-Go compiler](https://benhoyt.com/writings/awkgo/)
  * [No database! Thanks to AWK](http://freesoftwaremagazine.com/articles/look_mum_no_database_thanks_to_awk/)
@@ -101,7 +104,7 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [crossbowerbt/awk-webserver](https://github.com/crossbowerbt/awk-webserver) simple *socat webserver written in GNU awk
  * [Yacc to LaTeX](https://web.archive.org/web/20150910190944/http://www.alchar.org/~aedil/Projects/y2l.html) takes (hopefully) any yacc source file, and derives an Extended Backus-Naur Form (EBNF) description from it. This EBNF is written out as LaTeX source. 
  * [shape-of-code.com railroad.awk.txt](https://www.shape-of-code.com/images/railroad.awk.txt)
-
+ * [reconquest/shdoc](https://github.com/reconquest/shdoc) Documentation generator for shell scripts
 
 # Nowadays [AWK Implementations](https://en.wikipedia.org/wiki/AWK#Versions_and_implementations)
  * recommended
