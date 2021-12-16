@@ -61,6 +61,7 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [globs vs regexp](https://hackaday.com/2021/10/07/linux-fu-globs-vs-regexp/)
  * [gawking hex files](https://hackaday.com/2016/07/13/gawking-hex-files/)
  * [(gawking)Binary Data](https://web.archive.org/web/20180330082617/http://www.awk-scripting.de/cgi-bin/wiki.cgi/scripting/BinaryData)
+ * [Awk As A Major Systems Programming Language](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.467.3047&rep=rep1&type=pdf) 
 
 
 ## Documentation
@@ -115,7 +116,9 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [Yacc to LaTeX](https://web.archive.org/web/20150910190944/http://www.alchar.org/~aedil/Projects/y2l.html) takes (hopefully) any yacc source file, and derives an Extended Backus-Naur Form (EBNF) description from it. This EBNF is written out as LaTeX source. 
  * [shape-of-code.com railroad.awk.txt](https://www.shape-of-code.com/images/railroad.awk.txt)
  * [reconquest/shdoc](https://github.com/reconquest/shdoc) Documentation generator for shell scripts
- * [darius/awklisp](https://github.com/darius/awklisp) A Lisp interpreter written in Awk. 
+ * [darius/awklisp](https://github.com/darius/awklisp) A Lisp interpreter written in Awk.
+ * [wd5gnr/axasm](https://github.com/wd5gnr/axasm) Universal Cross Assembler
+ * [wd5gnr/awkparse](https://github.com/wd5gnr/awkparse) Use these awk functions to create a regular expression that picks apart a line into named fields. 
 
 # Nowadays [AWK Implementations](https://en.wikipedia.org/wiki/AWK#Versions_and_implementations)
  * recommended
