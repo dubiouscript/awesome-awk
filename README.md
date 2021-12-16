@@ -27,6 +27,8 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [A guide to intermediate awk scripting](https://opensource.com/article/19/11/intermediate-awk-scripting)
  * [Advance your awk skills with two easy tutorials](https://opensource.com/article/19/10/advanced-awk)
  * [awk is the coolest tool you don't know](https://portal.mozz.us/gemini/drewdevault.com/2021/05/03/awk-is-the-coolest-tool-you-dont-know.gmi)
+ * [Awk in 20 Minutes](https://ferd.ca/awk-in-20-minutes.html)
+
 
 ## links resources ect
  * [wiki Yacc (Yet Another Compiler-Compiler)](https://en.wikipedia.org/wiki/Yacc) Among the languages that were first implemented with Yacc are AWK,..
@@ -40,6 +42,13 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [Theory behind regex implementations](https://cs.stackexchange.com/questions/135340/theory-behind-regex-implementations)
  * [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/%7Ersc/regexp/regexp1.html)
  * [Are regular languages and their regular expressions part of computer science?](https://cs.stackexchange.com/questions/116985/are-regular-languages-and-their-regular-expressions-part-of-computer-science)
+ * [regular-expressionsarent](https://cstheory.stackexchange.com/questions/448/regular-expressions-arent)
+ * [Comparison of regular expression engines](https://en.wikipedia.org/wiki/Comparison_of_regular_expression_engines)
+ * [Implementing Regular Expressions](https://swtch.com/~rsc/regexp/)
+ * [Matching with a Trigram Index](https://swtch.com/~rsc/regexp/regexp4.html)
+ * [WhyRE2](https://github.com/google/re2/wiki/WhyRE2)
+ * [Extended regular expressions: succinctness and decidability](https://repository.lboro.ac.uk/articles/conference_contribution/Extended_regular_expressions_succinctness_and_decidability/9405416)
+ * [Regular language](https://en.wikipedia.org/wiki/Regular_language)
  * [GoAWK, an AWK interpreter written in Go](https://benhoyt.com/writings/goawk/)
  * [AWKGo, an AWK-to-Go compiler](https://benhoyt.com/writings/awkgo/)
  * [No database! Thanks to AWK](http://freesoftwaremagazine.com/articles/look_mum_no_database_thanks_to_awk/)
