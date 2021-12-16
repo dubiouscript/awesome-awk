@@ -51,6 +51,16 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [Grammar Zoo #awk](https://slebok.github.io/zoo/#awk) The objective of the Grammar Zoo is to accumulate grammars in a broad sense of various software languages, extracted and recovered from language documentation, parser specifications and other artefacts and make them available in a range of formats.
  * [Browsable AWK Grammar](https://slebok.github.io/zoo/awk/bruneliere/extracted/index.html)
  * [wiki.alpinelinux awk](https://wiki.alpinelinux.org/wiki/Awk) technical summary and list of "gotchas", compares BusyBox's awk ,gawk (versions >= 3.1.8) & FreeBSD 9's nawk
+ * [Awk: The Power and Promise of a 40-Year-Old Language](https://www.fosslife.org/awk-power-and-promise-40-year-old-language)
+ * [why gawk ,awk.info](https://web.archive.org/web/20150929033218/http://awk.info/?whygawk) Coding in Awk is like preserving fruit- you boil off everything that is superfluous, that needlessly bloats the material what you are working with.
+ * [CHICKEN Scheme , awk egg](https://wiki.call-cc.org/eggref/4/awk) A looping construct for processing input in a way similar to the awk tool.
+ * [awk macro from Scsh](https://web.archive.org/web/20081226220557/docs.plt-scheme.org/mzlib/mzlib_awk.html) *scsh, a Unix shell that is embedded within Scheme
+ * [scsh.net docu#awk](https://scsh.net/docu/html/man-Z-H-9.html#node_sec_8.2) Scsh provides a loop macro and a set of field parsers that can be used to perform text processing very similar to the Awk programming language.
+ * [Awk, Unix, and fp](http://trevorjim.com/awk-unix-and-functional-programming/)
+ * [hacking a universal assembler](https://hackaday.com/2015/08/06/hacking-a-universal-assembler/)
+ * [globs vs regexp](https://hackaday.com/2021/10/07/linux-fu-globs-vs-regexp/)
+ * [gawking hex files](https://hackaday.com/2016/07/13/gawking-hex-files/)
+ * [(gawking)Binary Data](https://web.archive.org/web/20180330082617/http://www.awk-scripting.de/cgi-bin/wiki.cgi/scripting/BinaryData)
 
 
 ## Documentation
@@ -61,7 +71,7 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [Where X=awk Learn X in Y minutes](https://learnxinyminutes.com/docs/awk/)
  * [awk @ rosettacode: programming chrestomathy wiki](http://rosettacode.org/wiki/Category:AWK)
  * [Awk information and code found on the Internet](https://balbach.net/awk/doku.php)
-
+ * [An Awk Primer](https://en.wikibooks.org/wiki/An_Awk_Primer)
 
 ## Books
  * [Effective awk Programming: Universal Text Processing and Pattern Matching](https://www.amazon.com/Effective-awk-Programming-Universal-Processing/dp/1491904615/)
@@ -105,6 +115,7 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [Yacc to LaTeX](https://web.archive.org/web/20150910190944/http://www.alchar.org/~aedil/Projects/y2l.html) takes (hopefully) any yacc source file, and derives an Extended Backus-Naur Form (EBNF) description from it. This EBNF is written out as LaTeX source. 
  * [shape-of-code.com railroad.awk.txt](https://www.shape-of-code.com/images/railroad.awk.txt)
  * [reconquest/shdoc](https://github.com/reconquest/shdoc) Documentation generator for shell scripts
+ * [darius/awklisp](https://github.com/darius/awklisp) A Lisp interpreter written in Awk. 
 
 # Nowadays [AWK Implementations](https://en.wikipedia.org/wiki/AWK#Versions_and_implementations)
  * recommended
