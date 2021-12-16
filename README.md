@@ -83,6 +83,8 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [awk @ rosettacode: programming chrestomathy wiki](http://rosettacode.org/wiki/Category:AWK)
  * [Awk information and code found on the Internet](https://balbach.net/awk/doku.php)
  * [An Awk Primer](https://en.wikibooks.org/wiki/An_Awk_Primer)
+ * [A User’s Guide for GNU Awk](https://www.gnu.org/software/gawk/manual/gawk.pdf)
+
 
 ## Books
  * [Effective awk Programming: Universal Text Processing and Pattern Matching](https://www.amazon.com/Effective-awk-Programming-Universal-Processing/dp/1491904615/)
