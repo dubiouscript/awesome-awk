@@ -13,6 +13,7 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [30 seconds of AWK code](https://github.com/freznicek/30-seconds-of-awk-code/blob/master/README.md)
  * [Awk - A useful little language](https://dev.to/rrampage/awk---a-useful-little-language-2fhf)
  * [My best AWK tricks by Jonathan Palardy](https://blog.jpalardy.com/posts/my-best-awk-tricks/)
+ * [Why Learn AWK?](https://blog.jpalardy.com/posts/why-learn-awk/)
  * [10 Awk Tips, Tricks and Pitfalls by Peter Krumins](http://www.catonmat.net/blog/ten-awk-tips-tricks-and-pitfalls)
  * [Awk Tutorial at tutorialspoint.com](https://www.tutorialspoint.com/awk/)
  * [How To Use the AWK language to Manipulate Text in Linux by Justin Ellingwood](https://www.digitalocean.com/community/tutorials/how-to-use-the-awk-language-to-manipulate-text-in-linux)
