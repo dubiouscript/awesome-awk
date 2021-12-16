@@ -118,7 +118,8 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [reconquest/shdoc](https://github.com/reconquest/shdoc) Documentation generator for shell scripts
  * [darius/awklisp](https://github.com/darius/awklisp) A Lisp interpreter written in Awk.
  * [wd5gnr/axasm](https://github.com/wd5gnr/axasm) Universal Cross Assembler
- * [wd5gnr/awkparse](https://github.com/wd5gnr/awkparse) Use these awk functions to create a regular expression that picks apart a line into named fields. 
+ * [wd5gnr/awkparse](https://github.com/wd5gnr/awkparse) Use these awk functions to create a regular expression that picks apart a line into named fields.
+ * [davidgiven/fforth](https://github.com/davidgiven/fforth) The source file is both a C program and a shell script (and an awk script, and Forth source). :dark_sunglasses: 
 
 # Nowadays [AWK Implementations](https://en.wikipedia.org/wiki/AWK#Versions_and_implementations)
  * recommended
