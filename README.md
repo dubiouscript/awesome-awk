@@ -66,6 +66,7 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [CHICKEN Scheme , awk egg](https://wiki.call-cc.org/eggref/4/awk) A looping construct for processing input in a way similar to the awk tool.
  * [awk macro from Scsh](https://web.archive.org/web/20081226220557/docs.plt-scheme.org/mzlib/mzlib_awk.html) *scsh, a Unix shell that is embedded within Scheme
  * [scsh.net docu#awk](https://scsh.net/docu/html/man-Z-H-9.html#node_sec_8.2) Scsh provides a loop macro and a set of field parsers that can be used to perform text processing very similar to the Awk programming language.
+ * [scsh.net](https://scsh.net/) scsh provides an awk facility
  * [Awk, Unix, and fp](http://trevorjim.com/awk-unix-and-functional-programming/)
  * [hacking a universal assembler](https://hackaday.com/2015/08/06/hacking-a-universal-assembler/)
  * [globs vs regexp](https://hackaday.com/2021/10/07/linux-fu-globs-vs-regexp/)
