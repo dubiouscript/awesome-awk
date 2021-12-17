@@ -133,6 +133,8 @@ A curated list of awesome AWK frameworks, libraries, software and resources.
  * [wd5gnr/axasm](https://github.com/wd5gnr/axasm) Universal Cross Assembler
  * [wd5gnr/awkparse](https://github.com/wd5gnr/awkparse) Use these awk functions to create a regular expression that picks apart a line into named fields.
  * [davidgiven/fforth](https://github.com/davidgiven/fforth) The source file is both a C program and a shell script (and an awk script, and Forth source). :dark_sunglasses: 
+ * [tylerneylon/gist/call_graph.awk](https://gist.github.com/tylerneylon/c0cdccdbf2c6a2cb4bdb#file-call_graph-awk) Parse Lua code and draw its call graph. 
+
 
 # Nowadays [AWK Implementations](https://en.wikipedia.org/wiki/AWK#Versions_and_implementations)
  * recommended
